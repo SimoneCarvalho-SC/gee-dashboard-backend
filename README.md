@@ -30,9 +30,13 @@ http://127.0.0.1:5000/apidocs/
 ## Estrutura:
 
 app.py: ponto de entrada da aplicação
+
 routes/: rotas da API
+
 instalacao_schema.py: schema de validação
+
 model/: funções de acesso ao banco de dados
+
 swagger: documentação interativa com Flasgger
 
 ## Requisitos:
