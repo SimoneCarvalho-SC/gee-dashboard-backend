@@ -9,6 +9,7 @@ Siga os passos abaixo para executar o projeto localmente:
 Crie e ative um ambiente virtual:
 
 python -m venv venv
+
 venv\Scripts\activate
 
 Instale as dependências:
@@ -30,6 +31,8 @@ http://127.0.0.1:5000/apidocs/
 ## Estrutura:
 
 app.py: ponto de entrada da aplicação
+
+![alt text](image.png)
 
 routes/: rotas da API
 
