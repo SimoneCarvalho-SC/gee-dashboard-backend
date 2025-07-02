@@ -36,11 +36,21 @@ app.py: ponto de entrada da aplicação
 
 routes/: rotas da API
 
+![alt text](image-1.png)
+
 instalacao_schema.py: schema de validação
+
+![alt text](image-2.png)
 
 model/: funções de acesso ao banco de dados
 
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
 swagger: documentação interativa com Flasgger
+
+![alt text](image-6.png)
 
 ## Requisitos:
 
